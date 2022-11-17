@@ -10,7 +10,7 @@ static void Main()
     int a = 4;
     int b = 5;
     int result = ReturnNumbers(a, b);
-    Console.WriteLine(result);
+    Console.WriteLine(result); // Returns the main function
 }
 
 Main();
